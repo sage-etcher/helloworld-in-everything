@@ -6,10 +6,10 @@
 int
 main (void)
 {
-	printf ("Hello, World!\n");	/* print hello world to the stdout device */
-	fflush (stdout);		/* flush the stdout device, required on some systems */
+        printf ("Hello, World!\n");     /* print hello world to the stdout device */
+        fflush (stdout);                /* flush the stdout device, required on some systems */
 
-	return EXIT_SUCCESS;		/* return a success */
+        return EXIT_SUCCESS;            /* return a success */
 }
 
 

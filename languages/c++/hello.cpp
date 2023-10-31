@@ -5,9 +5,9 @@
 int
 main (void)
 {
-	std::cout << "Hello, World!\n" << std::endl;	// print hello world to the stdout device 
+        std::cout << "Hello, World!\n" << std::endl;    // print hello world to the stdout device 
 
-	return 0;					// exit w/ a success
+        return 0;                                       // exit w/ a success
 }
 
 
