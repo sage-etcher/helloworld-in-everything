@@ -1,0 +1,6 @@
+*.c     text eof=lf
+*.cpp   text eof=lf
+*.py    text eof=lf
+*.ws    text eof=lf
+*.sh    text eof=lf
+*.bat   text eof=crlf
